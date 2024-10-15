@@ -19,8 +19,8 @@ FileVault is a secure file management CLI tool designed for programmers to store
 ### Installation 💻
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FileVault.git
-   cd FileVault
+   https://github.com/the-ai-developer/L2C-sFileVault.git
+   cd L2C-sFileVault
 Make the script executable:
 
 ```bash
