@@ -62,18 +62,16 @@ Below are sample images demonstrating the CLI interface and file upload process.
 
 ## Sample CLI Interface
 ### Listing Files
-![image](https://github.com/user-attachments/assets/3c96e676-3259-4f96-a300-0354b03ddb7d)
+![01](https://github.com/user-attachments/assets/2fe426ea-b47c-45ed-b696-9e21060ebe0b)
 
 ### Deleting Files
-![image](https://github.com/user-attachments/assets/271ea664-2e69-4c1c-9952-05b883c670dd)
+![02](https://github.com/user-attachments/assets/16caa4db-e408-4411-8e55-51110d8d3146)
 
 ### Uploading Files
-![image](https://github.com/user-attachments/assets/3a218b41-b1f6-437c-b2b7-4210d4ff6141)
+![03](https://github.com/user-attachments/assets/cf7f1058-b286-47d4-abcb-dda7929c21bb)
 
 ### Downloading Files
-![image](https://github.com/user-attachments/assets/1860949e-7179-4cd3-9fe1-49c1d730112a)
-
-
+![04](https://github.com/user-attachments/assets/74b12ca3-38ad-48f0-a1fd-0a885dbca5ae)
 
 
 ## Contributing 🤝
