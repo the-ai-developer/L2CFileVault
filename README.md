@@ -31,43 +31,42 @@ Run the script:
 ```bash
 ./FileVault.sh
 ```
-##How It Works ⚙️
-###Database Setup:
+
+## How It Works ⚙️
+
+### Database Setup:
 
 The script checks for the existence of a SQLite database at ~/file_registry.db. If it doesn't exist, it creates a new database with a files table.
-###File Upload Process:
+### File Upload Process:
 
 The script determines the type of file being uploaded based on its extension.
 It pings the relevant server to check if it’s reachable before proceeding with the upload.
 If the server is reachable, the file is uploaded, and details are logged into the SQLite database.
-###Authorization:
+### Authorization:
 
 Users are prompted to enter a password before they can perform any file management operations.
-##Operations 📋
-###1. Upload Files
+## Operations 📋
+### 1. Upload Files
 The script allows users to upload various file types, categorized into:
 Images: jpg, jpeg, png, gif, bmp
 Documents: pdf, docx, txt, odt
 Code Files: zip, tar, gz, py, js, cpp, c, java, html, css, sh
-###2. Database Management
+### 2. Database Management
 All uploaded files are logged in the SQLite database with the following fields:
 id: Unique identifier for the file
 name: Name of the file
 size: Size of the file
 server: Server where the file is uploaded
-##Sample Usage 🖼️
+## Sample Usage 🖼️
 Below are sample images demonstrating the CLI interface and file upload process.
 
-##Sample CLI Interface
+## Sample CLI Interface
 
 
-##Contributing 🤝
+## Contributing 🤝
 If you want to contribute to this project, please fork the repository and submit a pull request. For any suggestions or issues, feel free to open an issue in the repository.
 
-##License 📜
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-##Acknowledgments 🙌
+## Acknowledgments 🙌
 Inspired by various file management tools and motivated to create a secure and efficient solution for programmers.
 
 ### Notes:
