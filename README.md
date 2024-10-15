@@ -68,10 +68,10 @@ Below are sample images demonstrating the CLI interface and file upload process.
 ![02](https://github.com/user-attachments/assets/16caa4db-e408-4411-8e55-51110d8d3146)
 
 ### Uploading Files
-![03](https://github.com/user-attachments/assets/cf7f1058-b286-47d4-abcb-dda7929c21bb)
+![03](https://github.com/user-attachments/assets/f19cdab0-df43-4aaf-936b-c6520a3205af)
 
 ### Downloading Files
-![04](https://github.com/user-attachments/assets/74b12ca3-38ad-48f0-a1fd-0a885dbca5ae)
+![04](https://github.com/user-attachments/assets/af6ddfbe-4634-4808-8f32-1b5c520932fe)
 
 
 ## Contributing 🤝
