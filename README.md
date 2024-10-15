@@ -61,6 +61,7 @@ All uploaded files are logged in the SQLite database with the following fields:
 Below are sample images demonstrating the CLI interface and file upload process.
 
 ## Sample CLI Interface
+![image](https://github.com/user-attachments/assets/33872896-33a8-4d78-932e-d9e8f51975ea)
 
 
 ## Contributing 🤝
