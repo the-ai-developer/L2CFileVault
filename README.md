@@ -48,15 +48,15 @@ Users are prompted to enter a password before they can perform any file manageme
 ## Operations 📋
 ### 1. Upload Files
 The script allows users to upload various file types, categorized into:
-Images: jpg, jpeg, png, gif, bmp
-Documents: pdf, docx, txt, odt
-Code Files: zip, tar, gz, py, js, cpp, c, java, html, css, sh
+#### Images: jpg, jpeg, png, gif, bmp
+#### Documents: pdf, docx, txt, odt
+#### Code Files: zip, tar, gz, py, js, cpp, c, java, html, css, sh
 ### 2. Database Management
 All uploaded files are logged in the SQLite database with the following fields:
-id: Unique identifier for the file
-name: Name of the file
-size: Size of the file
-server: Server where the file is uploaded
+#### id: Unique identifier for the file
+#### name: Name of the file
+#### size: Size of the file
+#### server: Server where the file is uploaded
 ## Sample Usage 🖼️
 Below are sample images demonstrating the CLI interface and file upload process.
 
@@ -68,8 +68,3 @@ If you want to contribute to this project, please fork the repository and submit
 
 ## Acknowledgments 🙌
 Inspired by various file management tools and motivated to create a secure and efficient solution for programmers.
-
-### Notes:
-- Replace `yourusername` in the clone URL with your GitHub username.
-- You can add sample images by replacing `link_to_your_image` with the actual URLs of your images.
-- Feel free to customize any part of the README to better fit your project or style!
