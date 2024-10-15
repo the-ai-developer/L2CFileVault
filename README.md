@@ -39,24 +39,24 @@ Run the script:
 The script checks for the existence of a SQLite database at ~/file_registry.db. If it doesn't exist, it creates a new database with a files table.
 ### File Upload Process:
 
-The script determines the type of file being uploaded based on its extension.
-It pings the relevant server to check if it’s reachable before proceeding with the upload.
-If the server is reachable, the file is uploaded, and details are logged into the SQLite database.
+- The script determines the type of file being uploaded based on its extension.
+- It pings the relevant server to check if it’s reachable before proceeding with the upload.
+- If the server is reachable, the file is uploaded, and details are logged into the SQLite database.
 ### Authorization:
 
 Users are prompted to enter a password before they can perform any file management operations.
 ## Operations 📋
 ### 1. Upload Files
 The script allows users to upload various file types, categorized into:
-#### Images: jpg, jpeg, png, gif, bmp
-#### Documents: pdf, docx, txt, odt
-#### Code Files: zip, tar, gz, py, js, cpp, c, java, html, css, sh
+- #### Images: jpg, jpeg, png, gif, bmp
+- #### Documents: pdf, docx, txt, odt
+- #### Code Files: zip, tar, gz, py, js, cpp, c, java, html, css, sh
 ### 2. Database Management
 All uploaded files are logged in the SQLite database with the following fields:
-#### id: Unique identifier for the file
-#### name: Name of the file
-#### size: Size of the file
-#### server: Server where the file is uploaded
+- #### id: Unique identifier for the file
+- #### name: Name of the file
+- #### size: Size of the file
+- #### server: Server where the file is uploaded
 ## Sample Usage 🖼️
 Below are sample images demonstrating the CLI interface and file upload process.
 
